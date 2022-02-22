@@ -1,0 +1,30 @@
+
+body{
+    
+    background-color:aqua;
+}
+.container{
+    margin-top:40%;
+    position:relative;
+    text-align: center;
+    margin-bottom:40%;
+
+}
+img{
+    width:100%;
+    border-radius:10%;
+}
+.qr_image{
+    margin:5%;
+}
+.qr_code{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    background-color: white;
+
+}
+h1, p{
+    padding:1.5rem
+}
